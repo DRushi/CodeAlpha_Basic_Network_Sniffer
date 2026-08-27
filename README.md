@@ -445,7 +445,7 @@ Do **not** capture or inspect traffic on networks or devices without proper auth
 
 ## 👨‍💻 Author
 
-**Shubham Peharkar**
+**Rushikesh Dhawade**
 
 Cybersecurity | SOC | Network Security | Python
 
